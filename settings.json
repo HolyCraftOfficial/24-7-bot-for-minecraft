@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
         "YouTube: https://www.youtube.com/@HolyCraft-CommunityBD",
-        "Our Wrbsite: https://www.holycraft.games",
-        "Join Our Discord: https://discord.gg/27bbX7jnRS"
+        "Website: https://www.holycraft.games",
+        "Discord: https://discord.gg/27bbX7jnRS"
       ]
     },
     "chat-log": true,
