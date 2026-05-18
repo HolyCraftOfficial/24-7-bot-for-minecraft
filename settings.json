@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "holycraftcommunity.mcsh.io",
+    "ip": "play.holycraft.games",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
