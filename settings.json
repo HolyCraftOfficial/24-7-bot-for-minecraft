@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.holycraft.games",
+    "ip": "51.79.229.20:11279",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
